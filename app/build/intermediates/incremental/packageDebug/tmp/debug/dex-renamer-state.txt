@@ -1,0 +1,4 @@
+#Tue Dec 21 16:18:57 IST 2021
+base.0=D\:\\Third Year syllabus\\Fifth Semester\\Mobile App Development\\final project\\Android-Attendance-App-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
